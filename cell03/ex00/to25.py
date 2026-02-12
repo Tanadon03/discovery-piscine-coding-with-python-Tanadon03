@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-
 try:
     number = int(input("Enter a number less than 25: ").strip())
     if number <= 25:
